@@ -4,7 +4,7 @@
 通过“网络教学系统”UML建模过程掌握用例分析与设计方法
 
 - 实验环境
-  [GitHub Pages]([https://pages.github.com/](https://gitcode.com/open-source-toolkit/92ac6/overview?utm_source=highlight_word_gitcode&word=PowerDesigner))
+  [GitHub Pages]([[https://pages.github.com/](https://gitcode.com/open-source-toolkit/92ac6/overview?utm_source=highlight_word_gitcode&word=PowerDesigner)](https://gitcode.com/open-source-toolkit/92ac6/overview?utm_source=highlight_word_gitcode&word=PowerDesigner))
 
 - 实验任务
 
