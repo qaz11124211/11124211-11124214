@@ -41,3 +41,4 @@
 
 # 參考資料
 [实验二、UML建模之用例分析与设计_1、通过“网络教学系统”的uml建模过程掌握用例分析与设计方法 系统的功能需求主-CSDN博客](https://blog.csdn.net/guleilei0/article/details/124869427?spm=1001.2014.3001.5502)
+[github 基本格式和程式語法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
