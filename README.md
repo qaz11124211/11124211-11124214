@@ -1,4 +1,4 @@
-bb# 實驗二、UML建模之用例分析與設計
+# 實驗二、UML建模之用例分析與設計
 
 实验目的
 通过“网络教学系统”UML建模过程掌握用例分析与设计方法
@@ -24,7 +24,7 @@ PowerDesigner
 参与者与参与者之间的关系：泛化。
 画出完整用例图：
 
-![image]https://github.com/qaz11124211/11124211-11124214/blob/main/UseCaseDiagram1.jpg
+![image] https://github.com/qaz11124211/11124211-11124214/blob/main/UseCaseDiagram1.jpg
 
 
 
