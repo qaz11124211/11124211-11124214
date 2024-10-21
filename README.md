@@ -4,8 +4,7 @@
 通过“网络教学系统”UML建模过程掌握用例分析与设计方法
 
 - 实验环境
-  [GitHub Pages]([[https://pages.github.com/](https://gitcode.com/open-source-toolkit/92ac6/overview?utm_source=highlight_word_gitcode&word=PowerDesigner)](https://gitcode.com/open-source-toolkit/92ac6/overview?utm_source=highlight_word_gitcode&word=PowerDesigner))
-
+  [GitHub Pages](https://blog.csdn.net/guleilei0/article/details/124869427?spm=1001.2014.3001.5502)
 - 实验任务
 
 - 系统的功能需求主要包括以下几个方面：
