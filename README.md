@@ -27,7 +27,7 @@
 3. 参与者与参与者之间的关系：泛化。
 4. 画出完整用例图：
 
-![image](https://github.com/qaz11124211/11124211-11124214/blob/main/UseCaseDiagram1.jpg)
+![image](https://github.com/qaz11124211/11124211-11124214/blob/main/11124211.11124214.jpg)
 
 
 
